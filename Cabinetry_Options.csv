@@ -1,0 +1,28 @@
+supplier,city,state,zipcode,item_name,price,ship_dimL,ship_dimW,ship_dimH,ship_wt,freight_class,labor_crew,labor_time,final_dimL,final_dimW,final_dimH,storage_cuft
+lumberWA,Seattle,WA,98107,lumber_cabWA,600,96,48,12,500,60,1,47,24,162,36,44
+lumberTN,Nashville,TN,37209,lumber_cabTN,577,96,48,12,500,60,1,47,24,162,36,44
+lumberGA,Atlanta,GA,30324,lumber_cabGA,555,96,48,12,500,60,1,47,24,162,36,44
+lumberUT,Salt Lake City,UT,84104,lumber_cabUT,560,96,48,12,500,60,1,47,24,162,36,44
+homewyseWA,Seattle,WA,98107,scratch_cabWA,895,96,48,12,500,60,1,47,24,162,36,44
+homewyseTN,Nashville,TN,37209,scratch_cabTN,866,96,48,12,500,60,1,47,24,162,36,44
+homewyseGA,Atlanta,GA,30324,scratch_cabGA,866,96,48,12,500,60,1,47,24,162,36,44
+homewyseUT,Salt Lake City,UT,84104,scratch_cabUT,866,96,48,12,500,60,1,47,24,162,36,44
+Masco,Middlefield,OH,44062,cabinets_PA,1750,24,162,36,375,110,1,4.8,24,162,36,40
+Masco,Orwell,OH,44076,cabinets_PA,1750,24,162,36,375,110,1,4.8,24,162,36,40
+Masco,Los Lunas,NM,87031,cabinets_PA,1750,24,162,36,375,110,1,4.8,24,162,36,40
+Masco,Culpeper,VA,22701,cabinets_PA,1750,24,162,36,375,110,1,4.8,24,162,36,40
+Masco,Mt Jackson,VA,22842,cabinets_PA,1750,24,162,36,375,110,1,4.8,24,162,36,40
+Masco,Wilson,PA,18042,cabinets_PA,1750,24,162,36,375,110,1,4.8,24,162,36,40
+Masco,Mt Sterling,KY,40353,cabinets_PA,1750,24,162,36,375,110,1,4.8,24,162,36,40
+Masco,Duncanville,TX,75137,cabinets_PA,1750,24,162,36,375,110,1,4.8,24,162,36,40
+Masco,Middlefield,OH,44062,cabinets_RTA,1300,36,36,36,375,70,1,6.8,24,162,36,40
+Masco,Orwell,OH,44076,cabinets_RTA,1300,36,36,36,375,70,1,6.8,24,162,36,40
+Masco,Los Lunas,NM,87031,cabinets_RTA,1300,36,36,36,375,70,1,6.8,24,162,36,40
+Masco,Culpeper,VA,22701,cabinets_RTA,1300,36,36,36,375,70,1,6.8,24,162,36,40
+Masco,Mt Jackson,VA,22842,cabinets_RTA,1300,36,36,36,375,70,1,6.8,24,162,36,40
+Masco,Wilson,PA,18042,cabinets_RTA,1300,36,36,36,375,70,1,6.8,24,162,36,40
+Masco,Mt Sterling,KY,40353,cabinets_RTA,1300,36,36,36,375,70,1,6.8,24,162,36,40
+Masco,Duncanville,TX,75137,cabinets_RTA,1300,36,36,36,375,70,1,6.8,24,162,36,40
+Lilyann,Adrian,MI,49221,cabinets_RTA,1150,36,36,36,400,70,1,6.5,24,162,36,40
+Lilyann,Murfreeesboro,TN,37129,Cabinets_RTA,1150,36,36,36,400,70,1,6.5,24,162,36,40
+LilyAnn,Clearwater,FL,33760,Cabinets_RTA,1150,36,36,36,400,70,1,6.5,24,162,36,40
